@@ -124,32 +124,3 @@ Retrain model with new dataset
 
 Update inference class labels
 
-## Model Optimization
-Adjust hyperparameters in fine_tune_bert.py
-
-Modify batch size based on GPU memory
-
-Experiment with different learning rates
-
-
-Streamlit and Gradio teams for deployment frameworks
-
-📞 Support
-If you have any questions or issues:
-
-Check the Issues page
-
-Create a new issue with detailed description
-
-Provide your environment details and error logs
-
-🎯 Future Enhancements
-Docker containerization
-
-API deployment with FastAPI
-
-Model quantization for faster inference
-
-Multi-language support
-
-Real-time training monitoring
